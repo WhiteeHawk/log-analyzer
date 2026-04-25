@@ -17,7 +17,7 @@ A GUI-based cybersecurity tool that analyzes log files and detects suspicious ac
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Tkinter (GUI)
